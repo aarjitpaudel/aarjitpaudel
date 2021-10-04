@@ -1,4 +1,4 @@
-### Hi there, Its TheCoolDev 👋
+### Hi there, Its Aarjit 👋
 
 
 - 🔭 I’m currently working on `Web Devlopment and some python`
