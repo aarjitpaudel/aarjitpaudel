@@ -7,6 +7,6 @@
 - 📫 How to reach me: https://aarjit.ml
 - ⚡ Fun fact: I am human
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=github&count_private=true&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aarjitpaudel&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarjitpaudel&show_icons=true&theme=radical)
